@@ -1,0 +1,38 @@
+Category,Sub-Category,Income_Slab_INR,Rate_Percent,Limit_INR
+Tax Slab,Individual < 60,"0 - 250000",0,
+Tax Slab,Individual < 60,"250001 - 300000",5,
+Tax Slab,Individual < 60,"300001 - 500000",5,
+Tax Slab,Individual < 60,"500001 - 1000000",20,
+Tax Slab,Individual < 60,"> 1000000",30,
+Tax Slab,Senior Citizen (60-79),"0 - 300000",0,
+Tax Slab,Senior Citizen (60-79),"300001 - 500000",5,
+Tax Slab,Senior Citizen (60-79),"500001 - 1000000",20,
+Tax Slab,Senior Citizen (60-79),"> 1000000",30,
+Tax Slab,Super Senior Citizen (>=80),"0 - 500000",0,
+Tax Slab,Super Senior Citizen (>=80),"500001 - 1000000",20,
+Tax Slab,Super Senior Citizen (>=80),"> 1000000",30,
+Surcharge,On Tax,"> 5000000",10,
+Surcharge,On Tax,"> 10000000",15,
+Surcharge,On Tax,"> 20000000",25,
+Surcharge,On Tax,"> 50000000",37,
+Redemption,Health & Education Cess,,4,
+Redemption,Standard Deduction,,,50000
+Redemption,Tax Rebate (Sec 87A),,,12500
+Deduction,Investment (80C/CCC/CCD1),,,150000
+Deduction,Additional NPS (80CCD(1B)),,,50000
+Deduction,Health Insurance (80D) - Self/Family,,,25000
+Deduction,Health Insurance (80D) - Parents < 60,,,25000
+Deduction,Health Insurance (80D) - Parents >= 60,,,50000
+Deduction,Preventive Health Check-up (80D),,,5000
+Deduction,Dependent with Disability (80DD),,,75000
+Deduction,Dependent with Severe Disability (80DD),,,125000
+Deduction,Self with Disability (80U),,,75000
+Deduction,Self with Severe Disability (80U),,,125000
+Deduction,Specified Disease Treatment (80DDB),,,40000
+Deduction,Specified Disease Treatment - Senior (80DDB),,,100000
+Deduction,Interest on Home Loan (Sec 24b),,,200000
+Deduction,Interest on Home Loan (80EE),,,50000
+Deduction,Interest on Home Loan - Affordable (80EEA),,,150000
+Deduction,Interest on EV Loan (80EEB),,,150000
+Deduction,Interest on Savings Acct (80TTA),,,10000
+Deduction,Interest on Deposits - Senior (80TTB),,,50000

@@ -1,0 +1,15 @@
+Category,Sub-Category,Basis,Rate_or_Limit,Income_Threshold_INR
+Corporate Tax,Domestic Co (Turnover <= 400 Cr),Tax Rate (%),25,
+Corporate Tax,Other Domestic Co,Tax Rate (%),30,
+Corporate Tax,Foreign Co,Tax Rate (%),40,
+Corporate Tax,New Domestic Mfg Co (115BAB),Tax Rate (%),15,
+Corporate Tax,Domestic Co (115BAA),Tax Rate (%),22,
+Corporate Surcharge,Domestic Co,Surcharge Rate (%),7,> 10000000
+Corporate Surcharge,Domestic Co,Surcharge Rate (%),12,> 100000000
+Corporate Surcharge,Foreign Co,Surcharge Rate (%),2,> 10000000
+Corporate Surcharge,Foreign Co,Surcharge Rate (%),5,> 100000000
+Partnership & LLP,Base Tax Rate,Tax Rate (%),30,
+Partnership & LLP,Surcharge Rate,Surcharge Rate (%),12,> 10000000
+Partnership & LLP,Alternative Minimum Tax,Tax Rate (%),18.5,
+Business Redemptions,Interest on Partner's Capital,Rate Limit (%),12,
+Business Redemptions,Health & Education Cess,Cess Rate (%),4,
