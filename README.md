@@ -11,7 +11,15 @@ The primary goal of ProTax is to provide a straightforward and accurate tax calc
 
 The project emphasizes a clean, maintainable codebase by separating the UI (frontend) from the calculation logic (backend) within the same Flutter project.
 
------
+
+## 📸 Screenshots
+
+A glimpse of the ProTax user interface.
+
+| Individual Calculator | Business Calculator |
+| :---: | :---: |
+| <img src="screenshots/individual.jpg" alt="Individual Tax Form" width="300"/> | <img src="screenshots/business.jpg" alt="Business Tax Form" width="300"/> |
+
 
 ## 📁 Project Structure
 
@@ -39,7 +47,6 @@ lib
     └── (specific form, card, and section widgets)
 ```
 
------
 
 ## ⚙️ How It Works
 
@@ -77,7 +84,6 @@ The application's workflow is designed to be simple and robust, following a clea
 [UI Input] -> [Input Object] -> calculateTax() -> [Calculator Logic] -> [TaxResult Object] -> [UI Update]
 ```
 
------
 
 ## ✅ Test Cases
 
